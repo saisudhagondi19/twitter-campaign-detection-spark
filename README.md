@@ -1,4 +1,4 @@
-# Uncovering Coordinated Campaigns: Analyzing Artificial Inflation of Trend Popularity on Twitter 
+# Uncovering Coordinated Campaigns: Analyzing Artificial Inflation of Trend Popularity on Twitter
 # 10 Twitter trends - each trend of size in GB's is taken into consideration
 
 # Abstract 
